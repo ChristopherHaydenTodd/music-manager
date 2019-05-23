@@ -1,7 +1,8 @@
 #!/usr/bin/env python3.6
 """
     Purpose:
-        Parse Music Files
+        Script responsible for helping organize music files in a
+        specified directory and of a specific music filetype
     Steps:
         - Parse Location of Music from CLI
         - Determine Music Extension (Default .mp3)
